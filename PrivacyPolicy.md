@@ -17,9 +17,12 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-Google Play Services
-Fabric
-Crashlytics
+[Google Play Services](https://www.google.com/policies/privacy/)
+
+[Fabric](https://fabric.io/privacy)
+
+[Crashlytics](http://try.crashlytics.com/terms/privacy-policy.pdf)
+
 Log Data
 
 We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
